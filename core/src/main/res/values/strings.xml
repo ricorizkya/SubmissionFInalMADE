@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Submission JetpackPro</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="description">Description</string>
+    <string name="rate">7.5</string>
+    <string name="netflix">Netflix</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="time_release">Time Release</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+</resources>
